@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/kaggle_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/kaggle_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions](https://arxiv.org/pdf/2410.20424)
@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/tech_route.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/tech_route.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CodeEditorBench: Evaluating Code Editing Capability of Large Language Models](https://arxiv.org/pdf/2404.03543)
@@ -52,6 +52,20 @@ Jiawei Guo, **Ziming Li**, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, 
 [**Project**](https://github.com/CodeEditorBench/CodeEditorBench) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - With the increasing application of large language models in code editing tasks, there is an industry-wide need for a systematic evaluation framework to better measure these models' performance on specific tasks. Our goal was to design and implement a comprehensive evaluation framework to assess LLM performance across various code editing tasks, including debugging, translation, refactoring, and requirement transformation.
 - I was responsible for data cleaning and model evaluation, academic paper writing, and ongoing project updates and maintenance.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/tech_route.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/pdf/2311.10537)
+
+Xiangru Tang, Anni Zou, Zhuosheng Zhang, **Ziming Li**, Yilun Zhao, Xingyao Zhang, Arman Cohan, Mark Gerstein
+
+[**Project**](https://github.com/gersteinlab/MedAgents) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Current LLMs face challenges in medical domains due to limited domain knowledge and reasoning capabilities, necessitating a solution that doesn't require additional training.
+- Designed a framework that simulates multi-disciplinary expert collaboration through role-playing and multi-round discussions to activate LLMs' latent medical knowledge and enhance their reasoning abilities.
+- I led most of the experiments and participated in the framework design and optimization process.
 </div>
 </div>
 
