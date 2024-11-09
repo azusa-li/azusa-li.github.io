@@ -27,14 +27,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/kaggle_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AutoKaggle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions](https://arxiv.org/pdf/2410.20424)
 
 **Ziming Li**, Qianbo Zang, David Ma, Jiawei Guo, Tuney Zheng, Minghao Liu, Xinyao Niu, Yue Wang, Jian Yang, Jiaheng Liu, Wanjun Zhong, Wangchunshu Zhou, Wenhao Huang, Ge Zhang
 
-[**Project**](https://github.com/multimodal-art-projection/AutoKaggle) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://github.com/multimodal-art-projection/AutoKaggle) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+[**Project**](https://github.com/multimodal-art-projection/AutoKaggle) <a href='https://github.com/multimodal-art-projection/AutoKaggle'><img src="https://img.shields.io/github/stars/multimodal-art-projection/AutoKaggle?style=social" alt="GitHub stars"></a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Existing automated data science systems are oversimplified, inflexible, and lack transparency, making them inadequate for complex real-world data science tasks. 
 - We develop AutoKaggle, an end-to-end multi-agent framework that integrates phase-based workflows, iterative debugging, and comprehensive reporting systems to provide data scientists with efficient, reliable, and transparent automated solutions.
 </div>
@@ -42,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/tech_route.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CodeEditorBench.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CodeEditorBench: Evaluating Code Editing Capability of Large Language Models](https://arxiv.org/pdf/2404.03543)
@@ -55,7 +56,7 @@ Jiawei Guo, **Ziming Li**, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/tech_route.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/Medagents.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/pdf/2311.10537)
@@ -78,4 +79,5 @@ Xiangru Tang, Anni Zou, Zhuosheng Zhang, **Ziming Li**, Yilun Zhao, Xingyao Zhan
 - *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, College of Computer Science and Technology, Zhejiang University
 
 # 💻 Internships
+- *2024.06 - present*, M-A-P
 - *2023.12 - 2024.05*, HKGAI, HKUST
