@@ -35,8 +35,8 @@ My research interest includes neural machine translation and computer vision. I 
 **Ziming Li**, Qianbo Zang, David Ma, Jiawei Guo, Tuney Zheng, Minghao Liu, Xinyao Niu, Yue Wang, Jian Yang, Jiaheng Liu, Wanjun Zhong, Wangchunshu Zhou, Wenhao Huang, Ge Zhang
 
 [**Project**](https://github.com/multimodal-art-projection/AutoKaggle) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed AutoKaggle, an innovative multi-agent framework that autonomously completes data science workflows through collaborative agents. 
-- The framework integrates iterative debugging, comprehensive unit testing, and specialized tool libraries to provide automated solutions for data science tasks.
+- Existing automated data science systems are oversimplified, inflexible, and lack transparency, making them inadequate for complex real-world data science tasks. 
+- We develop AutoKaggle, an end-to-end multi-agent framework that integrates phase-based workflows, iterative debugging, and comprehensive reporting systems to provide data scientists with efficient, reliable, and transparent automated solutions.
 </div>
 </div>
 
@@ -50,8 +50,8 @@ My research interest includes neural machine translation and computer vision. I 
 Jiawei Guo, **Ziming Li**, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, Ding Pan, Yizhi LI, Ruibo Liu, Yue Wang, Shuyue Guo, Xingwei Qu, Xiang Yue, Ge Zhang, Wenhu Chen, Jie Fu
 
 [**Project**](https://github.com/CodeEditorBench/CodeEditorBench) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- With the increasing application of large language models in code editing tasks, there is an industry-wide need for a systematic evaluation framework to better measure these models' performance on specific tasks. 
-- Our goal was to design and implement a comprehensive evaluation framework to assess LLM performance across various code editing tasks, including debugging, translation, refactoring, and requirement transformation.
+- Existing frameworks focus heavily on code generation, lacking systematic evaluation of code editing abilities. Code editing is crucial in software development, requiring dedicated evaluation benchmarks.
+- We establish CodeEditorBench as the first comprehensive framework for evaluating LLMs' code editing capabilities and advance code editing technology through open-source datasets and evaluation tools.
 </div>
 </div>
 
@@ -64,7 +64,7 @@ Xiangru Tang, Anni Zou, Zhuosheng Zhang, **Ziming Li**, Yilun Zhao, Xingyao Zhan
 
 [**Project**](https://github.com/gersteinlab/MedAgents) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Current LLMs face challenges in medical domains due to limited domain knowledge and reasoning capabilities, necessitating a solution that doesn't require additional training.
-- Designed a framework that simulates multi-disciplinary expert collaboration through role-playing and multi-round discussions to activate LLMs' latent medical knowledge and enhance their reasoning abilities.
+- We design a framework that simulates multi-disciplinary expert collaboration through role-playing and multi-round discussions to activate LLMs' latent medical knowledge and enhance their reasoning abilities.
 </div>
 </div>
 
