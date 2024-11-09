@@ -34,8 +34,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Ziming Li**, Qianbo Zang, David Ma, Jiawei Guo, Tuney Zheng, Minghao Liu, Xinyao Niu, Yue Wang, Jian Yang, Jiaheng Liu, Wanjun Zhong, Wangchunshu Zhou, Wenhao Huang, Ge Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/multimodal-art-projection/AutoKaggle) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed AutoKaggle, an innovative multi-agent framework that autonomously completes data science workflows through collaborative agents. The framework integrates iterative debugging, comprehensive unit testing, and specialized tool libraries to provide automated solutions for data science tasks.
+- As the project lead, I spearheaded the framework design, implementation, experimental validation, paper writing, and ongoing project updates and maintenance.
+- Successfully developed a multi-agent framework capable of autonomously completing data science competitions. The framework achieved an 85% effective submission rate and a composite score of 0.82 across 8 Kaggle competition tests, demonstrating its reliability in practical applications. Through this process, I gained deep understanding and hands-on experience in multi-agent framework development, including agent role design, collaboration mechanism implementation, and workflow optimization.
 </div>
 </div>
 
