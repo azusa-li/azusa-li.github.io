@@ -35,8 +35,8 @@ My research interest includes neural machine translation and computer vision. I 
 **Ziming Li**, Qianbo Zang, David Ma, Jiawei Guo, Tuney Zheng, Minghao Liu, Xinyao Niu, Yue Wang, Jian Yang, Jiaheng Liu, Wanjun Zhong, Wangchunshu Zhou, Wenhao Huang, Ge Zhang
 
 [**Project**](https://github.com/multimodal-art-projection/AutoKaggle) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed AutoKaggle, an innovative multi-agent framework that autonomously completes data science workflows through collaborative agents. The framework integrates iterative debugging, comprehensive unit testing, and specialized tool libraries to provide automated solutions for data science tasks.
-- As the project lead, I spearheaded the framework design, implementation, experimental validation, paper writing, and ongoing project updates and maintenance.
+- Proposed AutoKaggle, an innovative multi-agent framework that autonomously completes data science workflows through collaborative agents. 
+- The framework integrates iterative debugging, comprehensive unit testing, and specialized tool libraries to provide automated solutions for data science tasks.
 </div>
 </div>
 
@@ -50,8 +50,8 @@ My research interest includes neural machine translation and computer vision. I 
 Jiawei Guo, **Ziming Li**, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, Ding Pan, Yizhi LI, Ruibo Liu, Yue Wang, Shuyue Guo, Xingwei Qu, Xiang Yue, Ge Zhang, Wenhu Chen, Jie Fu
 
 [**Project**](https://github.com/CodeEditorBench/CodeEditorBench) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- With the increasing application of large language models in code editing tasks, there is an industry-wide need for a systematic evaluation framework to better measure these models' performance on specific tasks. Our goal was to design and implement a comprehensive evaluation framework to assess LLM performance across various code editing tasks, including debugging, translation, refactoring, and requirement transformation.
-- I was responsible for data cleaning and model evaluation, academic paper writing, and ongoing project updates and maintenance.
+- With the increasing application of large language models in code editing tasks, there is an industry-wide need for a systematic evaluation framework to better measure these models' performance on specific tasks. 
+- Our goal was to design and implement a comprehensive evaluation framework to assess LLM performance across various code editing tasks, including debugging, translation, refactoring, and requirement transformation.
 </div>
 </div>
 
@@ -65,7 +65,6 @@ Xiangru Tang, Anni Zou, Zhuosheng Zhang, **Ziming Li**, Yilun Zhao, Xingyao Zhan
 [**Project**](https://github.com/gersteinlab/MedAgents) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Current LLMs face challenges in medical domains due to limited domain knowledge and reasoning capabilities, necessitating a solution that doesn't require additional training.
 - Designed a framework that simulates multi-disciplinary expert collaboration through role-playing and multi-round discussions to activate LLMs' latent medical knowledge and enhance their reasoning abilities.
-- I led most of the experiments and participated in the framework design and optimization process.
 </div>
 </div>
 
