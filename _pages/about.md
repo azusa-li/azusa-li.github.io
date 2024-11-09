@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/photo.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/kaggle_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions](https://arxiv.org/pdf/2410.20424)
@@ -37,11 +37,24 @@ My research interest includes neural machine translation and computer vision. I 
 [**Project**](https://github.com/multimodal-art-projection/AutoKaggle) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Proposed AutoKaggle, an innovative multi-agent framework that autonomously completes data science workflows through collaborative agents. The framework integrates iterative debugging, comprehensive unit testing, and specialized tool libraries to provide automated solutions for data science tasks.
 - As the project lead, I spearheaded the framework design, implementation, experimental validation, paper writing, and ongoing project updates and maintenance.
-- Successfully developed a multi-agent framework capable of autonomously completing data science competitions. The framework achieved an 85% effective submission rate and a composite score of 0.82 across 8 Kaggle competition tests, demonstrating its reliability in practical applications. Through this process, I gained deep understanding and hands-on experience in multi-agent framework development, including agent role design, collaboration mechanism implementation, and workflow optimization.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/tech_route.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CodeEditorBench: Evaluating Code Editing Capability of Large Language Models](https://arxiv.org/pdf/2404.03543)
+
+Jiawei Guo, **Ziming Li**, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, Ding Pan, Yizhi LI, Ruibo Liu, Yue Wang, Shuyue Guo, Xingwei Qu, Xiang Yue, Ge Zhang, Wenhu Chen, Jie Fu
+
+[**Project**](https://github.com/CodeEditorBench/CodeEditorBench) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- With the increasing application of large language models in code editing tasks, there is an industry-wide need for a systematic evaluation framework to better measure these models' performance on specific tasks. Our goal was to design and implement a comprehensive evaluation framework to assess LLM performance across various code editing tasks, including debugging, translation, refactoring, and requirement transformation.
+- I was responsible for data cleaning and model evaluation, academic paper writing, and ongoing project updates and maintenance.
+</div>
+</div>
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
